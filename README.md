@@ -5,7 +5,6 @@ Projecto em Python e SQL que analisa a evolução da população das 11 provínc
 ## Pergunta
 
 Que províncias crescem mais depressa, e como mudou o peso de cada uma no país?
-
 ## O que o projecto faz
 
 - Guarda os dados dos censos numa base de dados SQLite.
